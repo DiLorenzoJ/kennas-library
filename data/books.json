@@ -1,0 +1,81 @@
+{
+    "animals": [
+        {
+            "id": "0",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "1",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "2",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "2",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "3",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "4",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "5",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "6",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "7",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "8",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        },
+        {
+            "id": "9",
+            "title": "",
+            "genre": "",
+            "readOrNot": "",
+            "numberOfPages": [""]
+        }
+    ]
+}
